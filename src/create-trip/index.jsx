@@ -21,6 +21,8 @@ import { db } from '@/service/firebaseConfig';
 import { AiOutlineLoading3Quarters } from "react-icons/ai";
 import { useNavigate } from 'react-router-dom';
 
+
+// This component is responsible for creating a trip by gathering user input and generating a trip plan using AI.
 const CreateTrip = () => {
     const [place, setPlace] = useState(null);
     const [formData, setFormData] = useState({});
