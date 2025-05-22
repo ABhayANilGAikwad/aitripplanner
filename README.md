@@ -1,7 +1,7 @@
 # AI Trip Planner
 
 ## Overview
-AI Trip Planner is a React-based web application designed to help users plan personalized trips efficiently. It leverages AI-driven itinerary generation, Google Places Autocomplete for location suggestions, and Firebase for real-time data storage and authentication. The application provides an intuitive and engaging user experience with Tailwind CSS and Shaden UI for styling.
+AI Trip Planner is a React-based web application designed to help users plan personalized trips efficiently. It leverages AI-driven itinerary generation, Google Places Autocomplete for location suggestions, and Firebase for real-time data storage and authentication. The application provides an intuitive and engaging user experience with Tailwind CSS and Shaden UI for styling
 
 ## Features
 - 🌍 **User-Friendly Interface**: Simple and intuitive trip planning workflow.
