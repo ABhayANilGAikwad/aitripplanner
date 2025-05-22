@@ -16,7 +16,7 @@ AI Trip Planner is a React-based web application designed to help users plan per
 - **Frontend**: React, Tailwind CSS, Shaden UI
 - **Backend**: Firebase (Firestore, Authentication)
 - **APIs**: Google Places API, Google Authentication API
-- **Deployment**: Vercel
+- **Deployment**: Amazon ec2
 
 ## Installation & Setup
 1. Clone the repository:
@@ -44,11 +44,8 @@ AI Trip Planner is a React-based web application designed to help users plan per
 4. **Save your trip** for future reference.
 
 ## Deployment
-- The application is deployed on **Vercel** for seamless production access.
-- To deploy your own version:
-  ```sh
-  vercel --prod
-  ```
+- The application is deployed on **Amazon ec2** for seamless production access.
+- To access website paste the public ip to browsre or assisge domain mane to ip address
 
 ## Contributing
 Contributions are welcome! To contribute:
